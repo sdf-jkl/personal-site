@@ -1,4 +1,11 @@
 theme: minima
-title: Konstantin Tarasov's page
+title: Konstantin Tarasov
 author: Kosta Tarasov
-description: my personal site and blog, hopefully 
+description: Personal site, resume, and occasional writing on data systems.
+show_excerpts: true
+header_pages:
+  - about.md
+  - resume.md
+  - blog.md
+github_url: https://github.com/sdf-jkl
+linkedin_url: https://www.linkedin.com/in/kostatarasov/
